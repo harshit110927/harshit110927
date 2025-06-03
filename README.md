@@ -107,12 +107,27 @@
 </p>
 
 ---
+## 🌐 Competitive Programming
+
+### 📈 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/harshit110927?theme=dark&font=Montserrat&ext=contest)](https://leetcode.com/harshit110927/)
+
+---
+
+### 📊 Codeforces Rating Graph
+
+<p align="center">
+  <img src="https://cf.leed.at?id=harshit110927" alt="Codeforces Rating Graph" />
+</p>
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vizuoid)
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-shukla-250692248/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/harshit110927)
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harshit110927@gmail.com)
 
 ---
 
