@@ -121,7 +121,7 @@
   <img src="https://cf.leed.at?id=harshit110927" alt="Codeforces Rating Graph" />
 </p>
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vizuoid)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/h110927)
 
 ## 📫 Connect with Me
 
