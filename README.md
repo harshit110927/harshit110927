@@ -20,15 +20,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit110927&show_icons=true&theme=radical" alt="Harshit's GitHub stats"/>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=harshit110927&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📫 Connect with Me
 
