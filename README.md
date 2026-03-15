@@ -1,33 +1,32 @@
-<h1 align="center">Hi 👋, I'm Harshit Shukla</h1>
-<p align="center">
-  CSE Undergrad | Passionate about AI/ML, Fullstack, and Intelligent Systems<br>
-  Building meaningful projects that blend logic, learning, and impact
-</p>
+# Harshit Shukla
+
+Backend & AI Engineer. I build production-ready systems 
+that ship fast.
+
+Currently: AI inference pipelines, LLM integration, 
+backend architecture.
 
 ---
 
-## 🔍 About Me
+## What I build
 
-- 🎓 I'm a Computer Science Engineering student from India.
-- Currently diving deep into: **AI Agents**, **MERN Stack** and **System Design**.
----
-##  Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) (Springboot)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) (MERN + NextJS)
+- **AI Systems** — RAG pipelines, LLM APIs, 
+  inference optimization
+- **Backend** — Go, Java/Spring, distributed systems, 
+  REST/gRPC
+- **Full Stack** — Next.js, TypeScript
 
 ---
 
+## Active work
 
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-shukla-250692248/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/harshit110927)
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harshit110927@gmail.com)
+- OnboardFlow — Manage all client onboarding and metrics at one place with control over automated and manual nudges + onboardflow.xyz
+- ArnoCodes — Placement prep with a twist
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
+## Contact
+
+harshit110927@gmail.com
+[[LinkedIn]](https://www.linkedin.com/in/harshit110927/) [[X/Twitter](https://x.com/Harshitshukl__)] [[Portfolio](harshitshukla.codes)]
