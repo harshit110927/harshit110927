@@ -1,32 +1,38 @@
 # Harshit Shukla
 
-Backend & AI Engineer. I build production-ready systems 
-that ship fast.
+Backend & AI engineer. Go · TypeScript · LLM systems · RAG pipelines.  
+Building for startups
 
-Currently: AI inference pipelines, LLM integration, 
-backend architecture.
 
 ---
 
-## What I build
+## What I've shipped
 
-- **AI Systems** — RAG pipelines, LLM APIs, 
-  inference optimization
-- **Backend** — Go, Java/Spring, distributed systems, 
-  REST/gRPC
-- **Full Stack** — Next.js, TypeScript
+**[OnboardFlow](https://onboardflow.xyz)**  
+SaaS for client onboarding — automated + manual nudges, metrics dashboard.  
+Live product.  
+`Go` `TypeScript` `Next.js` `PostgreSQL`
+
+**[HILDA](link)** — Human-in-the-Loop Deployment Agent  
+AI release manager that sits between your PR and production.  
+RAG-powered operational review, multi-LLM (GPT-4 / Gemini / Claude), realtime  
+dashboard. Ships as a global NPM package.  
+`TypeScript` `Next.js` `LangChain` `LangGraph` `Supabase` `GitHub API`
+
+**[Fin Dashboard Backend](link)**  
+Production-grade finance API in Go — immutable records, RBAC, audit logging,  
+materialized view analytics. 109 E2E test cases. Zero ORM.  
+`Go` `PostgreSQL` `JWT` `sqlx` `Gin`
+
 
 ---
 
-## Active work
+## What I'm focused on right now
 
-- OnboardFlow — Manage all client onboarding and metrics at one place with control over automated and manual nudges + onboardflow.xyz
-- ArnoCodes — Placement prep with a twist
+Go backend systems and LLM integration for AI-native products —  
+RAG pipelines, on-device inference, agentic architectures.  
+Open to founding engineer / AI engineer / Backend roles at early-stage startups.
 
 ---
 
-
-## Contact
-
-harshit110927@gmail.com
-[[LinkedIn]](https://www.linkedin.com/in/harshit110927/) [[X/Twitter](https://x.com/Harshitshukl__)] [[Portfolio](harshitshukla.codes)]
+harshit110927@gmail.com · [LinkedIn](link) · [X](link) · [harshitshukla.codes](link)
